@@ -1,0 +1,31 @@
+﻿No,Cycle,Start Timestamp,End Timestamp,Comments,Adj Close
+1,Bust,1929-08-01,1933-03-01,"Stock market crash, higher taxes, Dust Bowl.",1421.96
+2,Boom,1933-04-01,1937-04-01,FDR passed New Deal.,3016.56
+3,Bust,1937-05-01,1938-06-01,FDR tried to balance budget.,2090.37
+4,Boom,1938-07-04,1945-01-07,World War II mobilization.,2820.27
+5,Bust,1945-02-01,1945-10-01,Peacetime demobilization.,2257.33
+6,Boom,1945-11-01,1948-10-01,Employment Act. Marshall Plan.,3076.39
+7,Bust,1948-11-01,1949-10-01,Postwar adjustment.,2295.92
+8,Boom,1949-11-01,1953-06-01,Korean War mobilization.,2636.80
+9,Bust,1953-07-01,1954-05-01,Peacetime demobilization.,2357.98
+10,Boom,1954-06-01,1957-07-01,Fed reduced rate to 1.0%.,4361.21
+11,Bust,1957-08-01,1958-04-01,Fed raised rate to 3.0%.,4263.53
+12,Boom,1958-05-01,1960-03-01,Fed lowered rate to 0.63%.,6016.61
+13,Bust,1960-04-08,1961-02-17,Fed raised rate to 4.0%.,4847.20
+14,Boom,1961-03-13,1969-11-30,JFK stimulus spending. Fed lowered rate to 1.17%.,5602.82
+15,Bust,1969-12-21,1970-11-06,Fed raised rate to 9.19%.,5389.71
+16,Boom,1970-12-16,1973-10-05,Fed lowered rate to 3.5%.,7633.22
+17,Bust,1973-11-07,1975-03-09,Nixon added wage-price controls. Ended gold standard. OPEC oil embargo. Stagflation.,3977.34
+18,Boom,1975-04-14,1979-12-25,Fed lowered rate to 4.75%.,4075.90
+19,Bust,1980-01-21,1980-07-04,Fed raised rate to 20% to end inflation.,2992.51
+20,Boom,1980-08-15,1981-06-29,Fed lowered rates. ,3320.12
+21,Bust,1981-07-18,1982-11-23,Resumption of 1980 recession.,2612.68
+22,Boom,1982-12-14,1990-06-01,Reagan lowered tax rate and boosted defense budget.,2901.67
+23,Bust,1990-07-02,1991-03-15,Caused by 1989 Savings and Loan Crisis.,6015.44
+24,Boom,1991-04-11,2001-02-16,Ended with bubble in internet investments.,13572.16
+25,Bust,2001-03-30,2001-11-19,"2001 recession caused by stock market crash, high-interest rates.",11471.41
+26,Boom,2001-12-21,2007-11-03,Derivatives created housing bubble,17578.52
+27,Bust,2007-12-18,2009-06-06,Subprime mortgage crisis,10710.80
+28,Boom,2009-07-01,2020-01-07,ARRA and QE,28666.42
+29,Bust,2020-02-20,2020-04-04,COVID pandemic,18167.40
+30,Boom,2020-04-08,Now,Post Covid Recovery,34067.24
